@@ -1,6 +1,6 @@
-# Yalda2022-website
+# Yalda1401-website
 
-Source code of the official website of Yalda 2022.
+Source code of the official website of Yalda 1401
 
 # Introduction
 This year's event was held in a day at the Sharif University of Technology.
